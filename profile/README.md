@@ -1,6 +1,5 @@
 # 🚀 CodeSpherreDev  
-
-Welcome to **CodeSpherreDev**, a **developer-first learning platform** where coding meets collaboration! Whether you're a beginner looking to start your journey or an experienced developer wanting to enhance your skills, **this is the place for you!**  
+![CodeSpherreDev Banner](https://github.com/CodeSpherreDev/.github/blob/main/Blue%20and%20White%20Illustrated%20Coding%20Bootcamp%20Outdoor%20Banner.png)  
 
 🔗 **Visit our website:** [CodeSpherreDev](https://code-spherre.netlify.app/)  
 
