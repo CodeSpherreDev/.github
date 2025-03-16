@@ -1,5 +1,5 @@
 # 🚀 CodeSpherreDev  
-![CodeSpherreDev Banner](https://github.com/CodeSpherreDev/.github/blob/main/Blue%20and%20White%20Illustrated%20Coding%20Bootcamp%20Outdoor%20Banner.png)  
+![CodeSpherreDev Banner](https://github.com/CodeSpherreDev/.github/blob/main/Blue%20and%20White%20Illustrated%20Coding%20Bootcamp%20Outdoor%20Banner%20(1).png)  
 
 🔗 **Visit our website:** [CodeSpherreDev](https://code-spherre.netlify.app/)  
 
